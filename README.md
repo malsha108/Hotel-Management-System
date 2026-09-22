@@ -20,7 +20,7 @@ A complete Hotel Management System developed using Java (NetBeans IDE). This sys
 
 ## 📸 Screenshots
 ### 🏠 Welcome Screen
-![Welcome Screen](images/welcome-screen.png)
+(images/welcome-screen.png)](https://github.com/malsha108/Hotel-Management-System/blob/main/HHH.PNG)
 
 ### 🔑 Login Screen
 ![Login Screen](images/login-screen.png)
