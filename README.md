@@ -26,7 +26,7 @@ A complete Hotel Management System developed using Java (NetBeans IDE). This sys
 ![Login Screen](images/login-screen.png)
 
 ### 📊 Dashboard
-![Dashboard](images/dashboard.png)
+(images/dashboard.png)](https://github.com/malsha108/Hotel-Management-System/blob/main/ddd.PNG)
 
 ## 🚀 How to Run
 1. Clone or download this repository.
