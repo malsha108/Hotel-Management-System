@@ -31,9 +31,9 @@ A complete Hotel Management System developed using Java (NetBeans IDE). This sys
 ## 🚀 How to Run
 1. Clone or download this repository.
 2. Open the project in NetBeans IDE.
-3. Import the database file (`hotel_db.sql`) into MySQL (using phpMyAdmin or XAMPP).
+3. Import the database file (`hotel_db.sql`) into MySQL.
 4. Update database connection details in `Conn.java` (username/password).
-5. Run `HotelManagementSystem.java` to start the application.
+5. Run HotelManagementSystem.java to start the application.
 
 ## 👩‍💻 Author
 * **Malsha**
